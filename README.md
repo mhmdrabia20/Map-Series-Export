@@ -13,7 +13,4 @@ This Python script automates the export of maps from ArcGIS Map Series based on 
 - **ArcGIS Pro**: Ensure ArcGIS Pro is installed and the Map Series is configured.  
 - **Python 3.x**: The script requires Python with the ArcGIS library (`arcpy`).  
 
-## 🚀 Usage  
-1. Clone the repository:  
-   ```bash
-   git clone <repository_url>
+
